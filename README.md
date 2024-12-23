@@ -27,17 +27,25 @@ Click on `Forward a Port` button.
 
 Add `6080` in Port column, browse to http://localhost:6080 and connect through noVNC.
 
-![alt text](screenshots/novnc_connect.png)
+![noVNC connect](screenshots/novnc_connect.png)
 
 You can open a terminal, run DrRacket
 
-![alt text](screenshots/drracket.png)
+![DrRacket](screenshots/drracket.png)
 
 Open `/workspaces/sample-racket/main.rkt`
 
 5. **Using desktop IDE through VNC protocol and other VNC clients**
 
-ToDo
+Download install and run a VN client such as TightVNC.
+
+Add `5901` in Port column.
+
+Connect to `localhost::5901`
+
+![TightVNC](screenshots/tightvnc.png)
+
+You can open a terminal, run DrRacket...
 
 ---
 
